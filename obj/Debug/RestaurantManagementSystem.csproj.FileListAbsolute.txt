@@ -1,0 +1,29 @@
+D:\study\CODE\Salim\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+D:\study\CODE\Salim\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+D:\study\CODE\Salim\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csprojAssemblyReference.cache
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.AddNewEmployee.resources
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FormAdminHome.resources
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FormLogin.resources
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.cache
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FormShowEmployee.resources
+D:\study\CODE\Salim\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FormUpdateDeleteEmployee.resources
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.AddNewEmployee.resources
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FormAdminHome.resources
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FormLogin.resources
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FormShowEmployee.resources
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FormUpdateDeleteEmployee.resources
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.cache
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csprojAssemblyReference.cache
+D:\Semester\SEMESTER 8\C#\Final\Project\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FormUpdate.resources
